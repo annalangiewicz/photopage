@@ -6183,6 +6183,7 @@ button.close {
   filter: alpha(opacity=90);
   outline: 0;
   opacity: .9;
+  -webkit-transition: all 0.4s ease;
 }
 .carousel-control .icon-prev,
 .carousel-control .icon-next,
@@ -6271,6 +6272,7 @@ button.close {
     margin-top: -15px;
     font-size: 30px;
   }
+
   .carousel-control .glyphicon-chevron-left,
   .carousel-control .icon-prev {
     margin-left: -15px;
