@@ -1089,8 +1089,8 @@ body {
   font-family: 'Josefin Slab', Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #333;
-  background-color: #fff;
+  color: #fff;
+  background-color: #272727;
 }
 input,
 button,
@@ -1292,7 +1292,7 @@ h6,
   font-size: 12px;
 }
 p {
-  margin: 0 0 10px;
+  margin: 0;
 }
 .lead {
   margin-bottom: 20px;
